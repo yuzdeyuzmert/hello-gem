@@ -4,25 +4,24 @@ A simple Hello World Gem, written by Mert AKSOY
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Download the Project and build a gem:
 
-    gem 'hello'
+$ gem build hello.gemspec
 
-And then execute:
 
-    $ bundle
+install it yourself as:
 
-Or install it yourself as:
+$ gem install hello-0.0.1.gem
 
-    $ gem install hello
+and use it
 
 ## Usage
 
-% irb
->> require 'hello'
-=> true
->> HEllo.hi
-Hello world!
+$ irb
+$>>require 'hello'
+$=> true
+$>>HEllo.hi
+$=>Hello world!
 
 ## Contributing
 
