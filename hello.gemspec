@@ -12,7 +12,7 @@ Gem::Specification.new do |gem|
   gem.summary       = %q{a simple hello world gem}
   gem.homepage      = "http://www.aksoymert.com"
 
-	gem.rubyforge_project = "hello"
+  gem.rubyforge_project = "hello"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }

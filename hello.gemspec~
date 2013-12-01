@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Hello::VERSION
   gem.authors       = ["Mert Aksoy"]
   gem.email         = ["mertaksoy@about.me"]
-  gem.description   = %q{TODO: Simply generates lorem ipsum text}
-  gem.summary       = %q{TODO: a simple hello world gem}
+  gem.description   = %q{Simply generates lorem ipsum text}
+  gem.summary       = %q{a simple hello world gem}
   gem.homepage      = "http://www.aksoymert.com"
 
 	gem.rubyforge_project = "hello"
