@@ -6,22 +6,22 @@ A simple Hello World Gem, written by Mert AKSOY
 
 Download the Project and build a gem:
 
-$ gem build hello.gemspec
+	gem build hello.gemspec
 
 
 install it yourself as:
 
-$ gem install hello-0.0.1.gem
+	gem install hello-0.0.1.gem
 
 and use it
 
 ## Usage
 
-$ irb
-$>>require 'hello'
-$=> true
-$>>HEllo.hi
-$=>Hello world!
+	$ irb
+	$>>require 'hello'
+	$=> true
+	$>>HEllo.hi
+	$=>Hello world!
 
 ## Contributing
 
