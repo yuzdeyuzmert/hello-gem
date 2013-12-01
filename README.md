@@ -18,10 +18,10 @@ and use it
 ## Usage
 
 	$ irb
-	$>>require 'hello'
-	$=> true
-	$>>HEllo.hi
-	$=>Hello world!
+	>>require 'hello'
+	=> true
+	>>HEllo.hi
+	=>Hello world!
 
 ## Contributing
 
