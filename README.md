@@ -1,6 +1,6 @@
 # Hello
 
-TODO: Write a gem description
+A simple Hello World Gem, written by Mert AKSOY
 
 ## Installation
 
@@ -18,7 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+% irb
+>> require 'hello'
+=> true
+>> HEllo.hi
+Hello world!
 
 ## Contributing
 
